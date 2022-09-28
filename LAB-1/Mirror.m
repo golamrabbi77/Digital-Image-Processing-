@@ -2,7 +2,7 @@ clc;
 clear all;
 close all;
 
-a = imread('cat_image.jpg');
+a = imread('child_image.jpg');
 b =rgb2gray(a);
 [r,c]=size(b);
 
